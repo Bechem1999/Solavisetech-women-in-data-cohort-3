@@ -1,9 +1,15 @@
-# Solavisetech-women-in-data-cohort-3
-SWID Cohort 3: My Women in Data Learning Journey
-Learning by doing, building with data, and growing one project at a time.
-
 # About This Repository
 # Welcome to my SolaviseTech Women in Data (SWID) Cohort 3 learning repository!
+
+<img src="https://img.shields.io/badge/Program-SWID%20Cohort%203-1f3c88?style=for-the-badge" alt="SWID Cohort 3" />
+<img src="https://img.shields.io/badge/Focus-Data%20Science-6f42c1?style=for-the-badge" alt="Data Science" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning" />
+<img src="https://img.shields.io/badge/Portfolio-In%20Progress-e0a800?style=for-the-badge" alt="Portfolio in progress" />
+<img src="https://img.shields.io/badge/Data%20Analysis-NumPy%20%7C%20pandas-150458?style=flat-square" alt="Data analysis with NumPy and pandas" />
+<img src="https://img.shields.io/badge/Visualization-Learning-2E8B57?style=flat-square" alt="Data visualization learning" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Foundations-orange?style=flat-square" alt="Machine learning foundations" />
+<img src="https://img.shields.io/badge/GitHub-Project%20Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub project portfolio" />
+</p>
 
 I created this repository to document my progress throughout the SWID program, keep my assignments and projects organised, and build a portfolio that shows what I learn and what I can do with data.
 
